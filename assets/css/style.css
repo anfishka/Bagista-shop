@@ -156,5 +156,6 @@ footer
     " col3 col4";
     grid-template-columns: 1fr;
     gap: 1rem;
+    color: rgb(59, 57, 57);
 }
 
