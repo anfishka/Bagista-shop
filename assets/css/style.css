@@ -160,6 +160,7 @@ body {
 
 footer {
     color: rgb(62, 59, 59);
-    font-size: larger;
-    font-family: sans-serif;
+    font-size: medium;
+    font-family: serif;
+    background-color: azure;
 }
