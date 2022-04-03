@@ -159,9 +159,10 @@ body {
 }
 
 footer {
-    color: rgb(62, 59, 59);
-    font-size: medium;
+
+    font-size: small;
     font-family: serif;
     background-color: azure;
-    color: blue;
+    color: gray;
+    opacity: 0.6;
 }
