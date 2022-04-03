@@ -156,6 +156,7 @@ footer {
 body {
     background-color: rgb(230, 231, 231);
     color: rgb(18, 18, 18);
+    opacity: 0.9;
 }
 
 footer {
