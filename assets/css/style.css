@@ -157,6 +157,7 @@ body {
     background-color: rgb(230, 231, 231);
     color: rgb(18, 18, 18);
     opacity: 0.9;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 footer {
@@ -165,5 +166,6 @@ footer {
     font-family: serif;
     background-color: azure;
     color: gray;
+    background: green;
     opacity: 0.6;
 }
