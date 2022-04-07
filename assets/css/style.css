@@ -155,9 +155,9 @@ footer {
 
 body {
     background-color: rgb(230, 231, 231);
-    color: rgb(18, 18, 18);
+    float: right;
     opacity: 0.9;
-    font-family: 'Courier New', Courier, monospace;
+
 }
 
 footer {
