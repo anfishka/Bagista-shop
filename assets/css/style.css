@@ -163,8 +163,8 @@ body {
 footer {
 
     font-size: small;
-    font-family: serif;
-    color: rgb(51, 12, 12);
-    background-color: rgb(239, 239, 229);
+    float: right;
+    position: fixed;
+    color: cadetblue;
 
 }
