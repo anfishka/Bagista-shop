@@ -163,6 +163,7 @@ body {
 footer {
 
     font-size: small;
-
+    position: left;
+    float: right;
 
 }
