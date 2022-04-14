@@ -152,13 +152,3 @@ footer {
     gap: 1rem;
     color: rgb(59, 57, 57);
 }
-
-body {
-    background-color: rgb(230, 231, 231);
-    float: right;
-    opacity: 0.6;
-    color: pink;
-    position: left;
-
-}
-
