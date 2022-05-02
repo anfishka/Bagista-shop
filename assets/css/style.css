@@ -155,3 +155,6 @@ footer {
 footer{
     color: rebeccapurple;
 }
+body{
+    border-right: 3px;
+}
