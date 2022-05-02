@@ -152,3 +152,7 @@ footer {
     gap: 1rem;
     color: rgb(59, 57, 57);
 }
+body{
+    font-family: serif;
+    background: #000;
+}
